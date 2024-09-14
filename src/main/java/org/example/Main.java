@@ -69,6 +69,8 @@ class LukaNumbers {
 
 /*
  * Головний клас, який шукає які серед N чисел Люка закінчуються на задане число
+ *
+ * @author -Yura Savarun
  * */
 public class Main {
     /*
